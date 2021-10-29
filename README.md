@@ -69,3 +69,15 @@ Esse repositório armazena os códigos dos desafios feitos em Java durante o meu
 
 **Desafio:**
 - [x] OAuth2 com Spring:
+
+## Módulo 8
+* Refatorando Formas de Pagamento
+* Strategy Pattern
+* SOLID
+* Enumerations
+
+**Desafio:**
+- A lógica de desconto de cada forma de pagamento deve ser encapsulada em uma classe diferente(Strategy Pattern)
+    - Essas classes devem ser implementações da interface **PriceStrategy**
+- Cada implementação da classe **PriceStrategy** deve ser vinculada ao enum PaymentMethod correspondente (Esse enum já possui um atributo chamado priceStrategy, utilize-o)
+- Nenhuma nomenclatura de classe, atributo ou assinatura de método existente deve ser alterada.
