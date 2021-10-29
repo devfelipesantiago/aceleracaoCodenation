@@ -77,7 +77,7 @@ Esse repositório armazena os códigos dos desafios feitos em Java durante o meu
 * Enumerations
 
 **Desafio:**
-- A lógica de desconto de cada forma de pagamento deve ser encapsulada em uma classe diferente(Strategy Pattern)
+- [x] A lógica de desconto de cada forma de pagamento deve ser encapsulada em uma classe diferente(Strategy Pattern)
     - Essas classes devem ser implementações da interface **PriceStrategy**
-- Cada implementação da classe **PriceStrategy** deve ser vinculada ao enum PaymentMethod correspondente (Esse enum já possui um atributo chamado priceStrategy, utilize-o)
-- Nenhuma nomenclatura de classe, atributo ou assinatura de método existente deve ser alterada.
+- [x] Cada implementação da classe **PriceStrategy** deve ser vinculada ao enum PaymentMethod correspondente (Esse enum já possui um atributo chamado priceStrategy, utilize-o)
+- [x] Nenhuma nomenclatura de classe, atributo ou assinatura de método existente deve ser alterada.
