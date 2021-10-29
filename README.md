@@ -11,9 +11,9 @@ Esse repositório armazena os códigos dos desafios feitos em Java durante o meu
 * Introdução ao Gradle
 
 **Desafios:**
-- [x] Sequência de Fibonacci: https://github.com/lauragirdwood/codenation/tree/master/java-0
-- [x] Criptografia de Júlio César v2: https://github.com/lauragirdwood/codenation/tree/master/java-6
-- [x] Calculadora de Salário Líquido: https://github.com/lauragirdwood/codenation/tree/master/java-13
+- [x] Sequência de Fibonacci: 
+- [x] Criptografia de Júlio César v2: 
+- [x] Calculadora de Salário Líquido: 
 
 ## Módulo 2
 * Programação Funcional vs Orientação a Objetos
@@ -50,7 +50,7 @@ Esse repositório armazena os códigos dos desafios feitos em Java durante o meu
 * Maven
 
 **Desafio:**
-- [ ] Criando Entidades de Banco de Dados em Java:
+- [x] Criando Entidades de Banco de Dados em Java:
 
 
 ## Módulo 6
@@ -59,8 +59,8 @@ Esse repositório armazena os códigos dos desafios feitos em Java durante o meu
 * HTTP Status Codes e Exception Handler
 
 **Desafios:**
-- [ ] Criando endpoints com Spring:
-- [ ] Gerador de frases do Monty Python utilizando Spring Boot e JPA:
+- [x] Criando endpoints com Spring:
+- [x] Gerador de frases do Monty Python utilizando Spring Boot e JPA:
 
 ## Módulo 7
 * Spring Security
@@ -68,4 +68,4 @@ Esse repositório armazena os códigos dos desafios feitos em Java durante o meu
 * Autenticação com Spring e OAuth2
 
 **Desafio:**
-- [ ] OAuth2 com Spring:
+- [x] OAuth2 com Spring:
